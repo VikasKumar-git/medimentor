@@ -10,8 +10,8 @@ hypertention: (82- 84 %)
             sysBP/diaBP:   numerical
             BMI:    numerical
             heartRate:   numerical
-            chol_category:   Low- 0 (107, 303)     medium- 1 (303, 500)    high-  2  (500, 696)   
-            glucose_category:   Low- 0 (40, 90)    medium- 1 (90, 140)    high-  2 (140, 200)   very high-  3 (200, 394)
+            chol_category (mg/dL):   Low- 0 (107, 303)     medium- 1 (303, 500)    high-  2  (500, 696)   
+            glucose_category (mg/dL):   Low- 0 (40, 90)    medium- 1 (90, 140)    high-  2 (140, 200)   very high-  3 (200, 394)
 
 
             RISK predicted
@@ -71,12 +71,12 @@ heart_disease_prediction: (75-80%)
 COMMON DATA:
         gender                                  -   male /  female
         age                                     -   numerical
-        Height	                                - numerical
-        Weight	                                - numerical		
+        Height	                                - numerical (in meters)
+        Weight	                                - numerical (in kg)		
 
         sysBP  (systolic pressure)                       -   numerical	
         diaBP  (diastolic pressure)                      -   numerical	
-        heartRate 	                                 -   numerical
+        heartRate 	                                 -   numerical (per min)
 
         cigsPerDay              -   numerical	
         smoking_status          -       never_smoked   /   formerly_smoked   /   smokes

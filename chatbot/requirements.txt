@@ -1,0 +1,11 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.0
+pypdf>=3.17.1
+huggingface-hub>=0.19.4
+typing-extensions>=4.8.0
+pydantic>=2.5.2
+requests>=2.31.0
+numpy>=1.26.0,<2.0.0

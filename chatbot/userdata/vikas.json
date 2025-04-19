@@ -1,0 +1,21 @@
+{
+    "name": "vikas",
+    "gender": "male",
+    "age": 20.0,
+    "Height": 170.0,
+    "Weight": 64.0,
+    "sysBP": 90.0,
+    "diaBP": 120.0,
+    "heartRate": 73.0,
+    "cigsPerDay": 0.0,
+    "smoking_status": "never_smoked",
+    "chol_category": "low_intake",
+    "glucose_category": "low_intake",
+    "ever_married": "no",
+    "Pregnancies": 0.0,
+    "work_type": "self_employed",
+    "Residence_type": "urban",
+    "DiabetesPedigreeFunction": "low_history",
+    "exang": "yes",
+    "user_id": "65eb8ad3"
+}
